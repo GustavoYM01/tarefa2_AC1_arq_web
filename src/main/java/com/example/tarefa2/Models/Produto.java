@@ -61,7 +61,7 @@ public class Produto {
     return preco;
   }
 
-  public void setQtd(Double preco) {
+  public void setPreco(Double preco) {
     this.preco = preco;
   }
 
